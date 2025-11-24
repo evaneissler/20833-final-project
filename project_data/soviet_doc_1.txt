@@ -1,0 +1,375 @@
+1. Report of the Government Commission for Investigation of Causes of the Accident at the Chernobyl NPS [Nuclear Power Station] on 26 April 1986. Gorbachev M.S. We agreed earlier that upon completion of the work of the Government Commission for Investigation of Causes of the Accident at the Chernoby] NPS, we would address this issue at a Politburo session. Now the Commission has delivered its report about the results of the investigation. Cde. Shcherbina has the floor.
+
+Shcherbina B.E. (Deputy Chairman of the USSR Council of Ministers)
+
+The Commission delivered its report about the accident at the Chernobyl NPS. Conclusions and recommendations were adopted by the Commission unanimously. The report and the appendices lay out the causes of the accident, conclusions and recommendations stemming from the analysis of the situation. [The Commission] analyzed practically all the sources of primary information, conclusions of the Institute, the expert groups, the Interagency Committee for Nuclear Power Stations and other materials. In June, we were able to remove the majority of recording tapes from the control grid and from the fourth block. They are being analyzed. | think there is no need to present the full Commission report.
+
+Let me report the main [findings].
+
+As we know, on April 26, in the fourth block of the Chernobyl station a thermal explosion of the reactor took place. The building of the reactor was destroyed. Part of the fuel in the form of radioactive debris and aerosol was expelled from the reactor. The explosion was preceded by an uncontrolled “acceleration” of the reactor. The accident was caused by a very crude violation of technological regulations and procedures by the operational staff and in connection with serious flaws in the design of the reactor.
+
+However, these causes are not equivalent. The Commission believes that the key causal point of the accident were the mistakes of the operational personnel.
+
+The accident became possible in the first place due to serious problems in the work of the operational personnel of the station, because of the state of carelessness that had been created there. All attention was focused on the production of electrical power. The leadership of the station, the conglomerate “Soyuzatomenergo,” and the Ministry of Energy did not draw appropriate lessons from the accidents and equipment failures that happened earlier and did not take necessary measures. One could say that they got away with everything. Here, as never before, mistaken confidence in the absolute safety of the NPS, of its use as a “standard” for the entire industry, has developed into a dangerous conviction.
+
+The main responsibility for the accident lies with the leadership of the station, the “Soyuzatomenergo” conglomerate, and the Ministry of Energy and Electrification. In 20 years of operating nuclear power stations, the Ministry must have accumulated experience, prepared the personnel, and organized order and discipline.
+
+The accident was preceded by a test of the power supply for the block’s own energy needs in conditions of a hypothetical maximum accident situation. The essence of the test was that in a situation of the stoppage of the reactor or in the case ofa rupture of the circulation pipe (with diameter of 850mm) the turbine generator was supposed to provide electrical power for the station’s own needs from the kinetic energy of expulsion until the emergency diesel generators kicked in.
+
+The program for that testing was drafted negligently and was not coordinated, as it was supposed to be, with the chief designer, the main engineer, the science adviser and the State Atomic Oversight [Agency]. Similar tests staged earlier were never completed.
+
+The test was scheduled to coincide with the shutdown of the reactor. The reactor was being stopped for [purposes of] conducting scheduled repairs after more than two years of operation (the power block became operational in December 1983).
+
+The director of the station and the deputy chief engineer for science did not participate in the drafting of the program or in conducting the testing. The program was approved by the chief nuclear power station engineer, cde. Fomin; the test was scheduled for April 25 and then was postponed for one more day. The timing of the test fell on the night of Friday - Saturday.
+
+The chief engineer of the nuclear power station, cde. Fomin, left the station for personal reasons after 18:00, and his deputy, Dyatlov, who was entrusted with running the test, showed up at the block only by the beginning of the test. At 24:00 a shift in personnel took place; there was no appropriate preparation or instruction for conducting the testing. Before the start of the test, following a request from deputy head of the turbine room Davletbayev, the manager of the test, Dyatlov, apparently made a decision not to stop the reactor before the turbine was switched off. This request was dictated by a desire to run a vibration test of the turbine generator after the main testing was completed.
+
+According to the instructions, the reactor must be shut down before the turbine is switched off.
+
+The system of emergency protection includes an automatic shutdown of the reactor when stop-valves of the turbines are closed. This protection (an AZ-5 system), which is supposed to shut down the reactor immediately, turned out to be switched off.
+
+Dyatlov, who is presently in the hospital in critical condition, testifies that he was aware of the blocking of the [emergency] protection [mechanism]; and the chief engineer for reactor management, Toptunov (deceased), allegedly did not carry out his orders to stop the reactor in a timely manner. Head of the shift Akimov (deceased), in his memo written in the hospital, for which we searched a long time, said that he, on Dyatlov’s orders, was supposed to stop the reactor before the stopvalves of the turbine would engage. However, he was not informed about the time when they would be shut.
+
+The stop-valves were closed at 1:23:04. From the notes we see that the command to stop the reactor was issued 36 seconds later. Several seconds later (estimated time 1:23:46) the explosion occurred.
+
+These developments were preceded by other violations of technological regulations, which in essence brought the reactor to an emergency situation. On April 25, the emergency cooling system was switched off, which is categorically prohibited while the reactor is in operation.
+
+According to the program of testing, the block was supposed to be operating at a thermal power of 700-1000 MVt. Due to the failure of local automatic power regulators, the reactor was essentially stopped an hour before the test. Subsequently, it was accelerated again to a level of 200MVt instead of 700 as the program required.
+
+A most egregious violation was also the absence of the necessary operational reserve of reactivity in the reactor at that time. This regulation had already been violated during the morning of April 25, when the reactor was working with a reserve of only 13 control rods, instead of the minimally allowed 15 rods. Operating the reactor with less than 26 SUZ [control and protection system--sistema upravleniya i zaschity| control rods can only be permitted by the chief engineer of the station.
+
+Under existing conditions, the reactor should have been shut down already on April 25. During the testing itself, the reserve of reactivity dropped to 6-8 control rods.
+
+These mistakes led to a situation where the reactor became unstable at very low power, the thermohydraulic regime broke down and controlling the reactor became difficult. (Now a regulation is established that the reactor must be immediately shut down if the thermal power drops to 700MVt).
+
+The gross violations of procedures made by the operational personnel were not caused by some extraordinary situation that developed suddenly, in which stress and confusion among staff could not be excluded. It was a series of unforgivable violations of the regulations and norms, one could say, under normal operating conditions.
+
+The mistakes of the operational staff were aggravated by flaws in the reactor design. They were the reason that the process developed into the maximum hypothetical accident, the biggest in the history of the nuclear power industry.
+
+The main flaw of the reactor is the positive void coefficient of reactivity, which evolved into a positive fast power coefficient of reactivity in the conditions that developed.
+
+According to the safety requirements, the power coefficient must not be positive in any, even extraordinary, situations.
+
+Practical experience in operating RBMK reactors has shown that the value of a positive void coefficient of reactivity turned out to be much higher, twice as high as projected by the design.
+
+A serious drawback in the construction of the reactor is the imperfections in the control and protection system (SUZ). The existing design of the SUZ rods is capable of increasing the positive void coefficient in the initial period of their insertion into the active zone. (The physical meaning of this phenomenon is that the flow of emitted neutrons is higher than their absorption by the fuel and consequently the speed of nuclear reaction and production of heat is increased).
+
+The reactor also has a number of flaws in the automation of control. For example, it lacks a system of constant notification of the operator about the presence of the control rods in the active zone of the reactor (currently this information is provided every 5-7 minutes, whereas operating the reactor requires actions measured sometimes in seconds). The reactor lacks a system of automatic shutdown when it operates at impermissibly low power levels. Trying to justify the absence of these and other control systems, the designers cite the impossibility of creating a fully automated protection system in cases of any possible mistakes by the staff or even in cases of intentional actions. In our view, this task must be solved and it is absolutely necessary for the safety of nuclear power stations.
+
+Speaking about the responsibility of the Ministry of Energy and Electrification, one has to note that Deputy Minister cde. Shasharin, who is in charge of nuclear stations, and head of the conglomerate cde. Veretennikov did not solve the core issues of ensuring safe operation of nuclear plants. These issues did not receive appropriate attention. Since 1983, the Collegium of the Ministry never once discussed issues related to safety of nuclear power stations.
+
+Accidents that did happen at the nuclear power stations never received detailed consideration and no necessary conclusions were drawn. The Institute for the Operation of Nuclear Power Stations that was created does not serve its purpose. During the 11* five-year period, there were 1042 emergency shutdowns of power blocks, among them 381 at nuclear power stations with the RMBK reactor. There were 104 such cases at the Chernobyl nuclear power station, among them 35 due to personnel negligence. In September 1982, a nuclear accident resulting in the destruction of the technological channel and ejection of heat-generating elements into the graphite layer occurred at Block No. 1 of this station. The investigation by the Ministry was conducted poorly; they did not establish the causes or the people responsible [for the accident]. The chief engineer of the station was removed from his position, and the director of the station was reprimanded.
+
+The Ministry of Energy did not address the issues of recruiting, professional vetting and, most importantly, the preparation of operating personnel properly.
+
+The Ministry has only one training center for the preparation of 400 specialists per year for the corpus VVEP reactors. There are no such training centers for the RBMK reactors—not under the Energy Ministry, not under the Ministry of Medium Machine Building—even though the task for establishing those was set by the USSR Council of Ministers all the way back in 1980. Taking into account the necessary assistance for the CMEA countries, we need training centers with the capacity to train and re-train no fewer than 18 to 20 thousand people per year.
+
+One also has to note that the Ministry of Energy systematically fails to fulfill its set tasks for building housing and cultural and social establishments in towns for personnel of nuclear power stations, which makes it difficult to create appropriate living conditions for them.
+
+Minister cde. Mayorets so far has not mastered the situation in the sector. The Ministry is poorly organized. Management discipline is poor. The Commission believes that the Ministry of Medium Machine Building (Minister cde. Slavsky), its Institute of Power Technologies (the main designer of the reactor), and the Kurchatov Institute of Nuclear Power (scientific advisor) also bear responsibility for the accident. The designers who worked on this reactor (cdes. Dollezhal, Yemelyanov), did not ensure the required level of safety of the RMBK reactor and did not evaluate its reliability with a critical eye. The Institutes do not provide the necessary scientific support for this sphere of the nuclear power industry. In designing the reactor, they gave priority to the economic quality of power stations based on this type of reactor.
+
+Even at the Commission meetings, cde. Yemelyanov was trying to avoid responsibility for the flaws of the reactor; he proposed his own theory of the causes of the accident linked to a failure of the circulation pump or a rupture of the circulation pipeline. As has been established by now, all the pumps remain in their proper place.
+
+A group of experts working on the instructions of the Commission assessed the usage reliability of the RBMK reactor and concluded that its characteristics were incompatible with modern safety requirements. Their conclusion states that when an international inspection is conducted, the reactor will be “ostracized.”
+
+RBMK reactors are potentially dangerous. We must take immediate measures to streamline the procedure of their operation and undertake work on improving the design. Such measures have been drafted, considered by the Commission, and their realization has been started, although their implementation will lower the economic numbers (data, statistics) of the blocks. Let me talk about the specific measures later.
+
+The Interagency Technological Council for nuclear power stations at the Ministry of Medium Machine Building is not fully up to its assigned tasks. Many decisions made by the Council are not implemented, and there is no oversight of the implementation. We consider it expedient to assign the State Committee of Science and Technology to oversee the Committee and also to reconsider the composition of the Council and its regulation..
+
+The State Committee for Oversight of Safety of Conducting Work in Nuclear Power Industry, which was created three years ago on the basis of a relevant unit in the Ministry of Medium Machine Building, is working poorly. Its leaders, cdes. Kulov, Sidorenko and Alexeyev, define their responsibilities in a formal, narrow and incorrect fashion.
+
+They consider only the nuclear-related parts of a nuclear power station as an object of oversight; other parts of the station are overseen by other inspectorates (machines and pipelines functioning under pressure, and lifting and transportation equipment are overseen by Gostechnadzor [State Committee for Technological Oversight]; and turbogenerators, transformers and electricity generators by the State Inspectorate of the Ministry of Energy).
+
+Even though the indivisibility of safety of nuclear power stations is more than obvious.
+
+The charter of the State Committee on Nuclear Power Oversight requires serious reconsideration, and the work of the Committee is in need of radical restructuring. It would be also expedient to create a scientific and technological center for nuclear safety within the structure of the Committee.
+
+Issues involving the safety of nuclear power stations also did not receive proper attention in a number of other Ministries and agencies. There was no shortage of decisions adopted on these issues, but implementation was far from complete. Timely creation of capacities in nuclear machine building was not ensured. Schedules for the construction of nuclear power stations have been systematically disrupted. A number of decisions on creating automated systems have not been carried out for along time. Only in the last year were decisions made that determined the timetable for the design and production of future national systems.
+
+It seems like everybody was under the influence of the highly advertised, allegedly high level of safety of nuclear power stations.
+
+What are the priority decisions earmarked for increasing the reliability of stations?
+
+We are talking about these priority measures:
+
+e increasing the minimum allowed number (up to 30) of SUZ rods (considering their constant immersion into the active zone of the reactor to a depth of 1.2 meters);
+
+e installing in first-generation reactors (30) additional absorbers instead of heat-emitting elements;
+
+e increasing by two times the operative reserve of reactivity (first-generation reactors will have 43-48 SUZ rods, and second-generation [reactors] will have 53-58);
+
+e increasing the level of fuel enrichment from 2% to 2.4% with a corresponding decrease in depth of burnout.
+
+Allow me not to list other technical measures.
+
+Technological regulations have been tightened, especially where it concerns the responsibility of nuclear power stations’ leadership.
+
+We introduced a list of emergency protection [mechanisms], the deactivation of which would be prohibited during operation of a block in any regime, and bringing a block back to full operation after a shutdown will be allowed only in the presence of the chief engineer of the station and an inspector of the State Committee for Nuclear Power Oversight.
+
+But the main thing in ensuring safety is the quality of operations, and the personnel, their preparedness, and professional vetting.
+
+Here we need a different level [of quality], a more advanced work system, which should be ensured by the Ministries.
+
+Implementation of priority measures demands that all Ministries and agencies carry out the tasks assigned to them in a strict and precise fashion at each station.
+
+At the current stage of development of the nuclear power industry, we must carry out a core improvement of its technological standards, including designing and building new types of reactors. It is necessary to prepare a detailed program and to implement it in the next several years.
+
+Today we are completing a technological expert review of the operating stations, those in the process of construction, and future designs in order to give them an evaluation in terms of their safety standards and to tighten the standards themselves.
+
+Machine Building plants and enterprises of the chemical industry will have to carry out considerable work in order to supply nuclear power stations with high-quality equipment, non-flammable cables and other items.
+
+We should make the difficult decision to stop building new nuclear power stations with RBMK reactors. Taking into account the unconditional adherence to the additional safety measures identified here, [we should] complete the six power blocks of the Kursk, Chernobyl and Smolensk nuclear power stations that are currently under construction. The State Planning Committee and the Bureau of the USSR Council of Ministers for fuel-energy complex was instructed to consider the question about the projected power [output] of the Ignalinskya power station.
+
+Decreasing the number of nuclear power stations with RBMK reactors that are currently under construction will require a corresponding increase in power output at natural gas, coal and hydroelectric power stations.
+
+We will need to specify the locations of nuclear power stations by regions of the country, and especially in densely populated areas and in zones of elevated seismic activity.
+
+[We have to] reconsider the designs of buildings and construction of stations to ensure the maximum autonomy of each power block, and the creation of external control centers and reserve control grids. After what happened in Chernobyl, we have to specify norms of designing and building of support townships for power stations and their infrastructure, and limit the construction of enterprises unrelated to the functioning of the stations.
+
+Realization of all these proposals will require a revision of the Energy Program.
+
+The accident at the Chernobyl] nuclear power station has laid bare a number of big drawbacks related to the organization and carrying out of priority measures in emergency situations.
+
+We were not prepared for that and decisions had to be made on the spot. Civil defense and public health services were especially slow to act. They showed themselves to be unprepared for the emerging situation.
+
+Preparation of and information for the population in connection with the radiation danger were insufficiently organized. People did not know how to behave in conditions of elevated radiation.
+
+The accident also revealed flaws in the organization of analysis and protection from radiation of food products, the functioning of enterprises in the agro-industrial complex, public food organizations, retail outlets, and children’s and medical institutions.
+
+There are no precise regulations for evacuating the population from an accident zone.
+
+We need to develop new dosimeter control equipment, decontamination means, remote-controlled mechanisms as well as effective means of fire-fighting.
+
+We should create mobile rapid-response technological teams for dealing with accidents for groups of nuclear power plants and equip them with special technology.
+
+In order to create a safety system for nuclear power stations in the country, the Commission proposes creating an all-Union Ministry of Nuclear Energy with responsibility for the entire universe of issues regarding building nuclear power stations and the use of nuclear energy in other sectors of the people’s economy. This Ministry could be created on the basis of enterprises, institutes, design bureaus and other organizations of the Ministry of Energy and the Ministry of Medium Machine Building.
+
+It would be expedient to instruct the Ministry of Defense to develop and carry out measures to improve the functioning of USSR Civil Defense units that must ensure implementation of measures for liquidating the consequences of big accidents at nuclear power stations and to exercise general leadership of those works. Taking into account the growing role of the nuclear power industry in society, and in order to streamline the normative and legal basis for it, the Commission believes we should adopt a USSR Law on the use of nuclear power. A draft of such a law has been prepared.
+
+Improvements in the safety of nuclear power stations will require a serious improvement in the work of ministries and agencies in charge of these issues and elevated attention toward them on the part of the party and state organs, both in the center and locally.
+
+The lessons of Chernobyl are hard. Regrettably, not everybody draws the necessary conclusions from them, which is evident in the emergency shutdowns of power blocks at the Leningrad and Kursk nuclear power stations. The USSR Council of Ministers adopted a stern decision in this regard and punished those responsible.
+
+The work on liquidating the accident at the Chernobyl nuclear power station has entered a decisive phase.
+
+The CC CPSU and the USSR Council of Ministers have adopted a number of significant measures for liquidating the consequences of the accident.
+
+The Operative Group of the CC CPSU Politburo is deciding many of the issues.
+
+These stipulations have determined the policy, which will allow us to regain the reputation of the national nuclear power industry and to overcome the difficulties in the economy caused by the Chernobyl accident.
+
+The Commission has undertaken a multifaceted evaluation of all circumstances and various arguments (not all of which were in agreement with each other) and has come to the conclusions, which it is now presenting.
+
+We ask you to approve the report and the proposals.
+
+Gorbachev: What questions do you have, comrades?
+
+Solomentsev: Was information about accidents at nuclear power stations analyzed and summarized? Have recommendations been developed, and if so, how have they been implemented?
+
+Shcherbina: Every single event at the nuclear power station was discussed in the ministries. In some cases, they were discussed at the Council of Ministers, but there
+
+has not been a summary resolution on those issues.
+
+Gromyko: Which agency made the final decisions regarding these events? Shcherbina: The existing order is as follows. Issues regarding the building of nuclear power stations are under the mandate of the Interagency Council. The Ministry of Medium Machine Building is responsible for construction and the Ministry of Energy for design. Decisions are adopted by the Council of Ministers. Final inspection is carried out by the State Commission.
+
+Gromyko: What kind of State Commission? Shcherbina: It is approved by the Ministry of Energy.
+
+Gorbachev: Why, in the view of the Commission, was the competence and discipline of the station’s personnel so low? Why did these issues not receive appropriate attention? There were worrisome signals in the past, but they were not analyzed, necessary measures were not taken. Look at what’s happening: already after the Chernobyl accident, a bulldozer operator at the Leningrad nuclear power station rips up wires during repair works, creating a danger of an accident. What is going on at nuclear power stations? We should take a hard look at all this. Ministries and special organs are not doing everything they should be doing. Is it not obvious that discipline should be at the level of the military at this kind of enterprise?
+
+Shcherbina: The personnel team at the Chernobyl nuclear power station was stable. Turnover was only 3.3 percent. Salaries were good. The director of the station was paid double salary for producing [the quota of] electrical power. The power station had a large party organization, 700 members for 4200 employees of the station. Formally, a large number of people went through training and retraining. However, an atmosphere of complacency has set in among the personnel. Deputy chief engineer Dyatlov’s references were good. Most individuals who were working on the shift during which the accident occurred were experienced staff. Those people have been working at the station for many years. Only one person among them worked there for half a year. They were confident that nothing would happen.
+
+Gorbachev: Were the procedures related to the experiment approved by the director?
+
+Shcherbina: No. They were approved by the chief engineer. Moreover, the deputy director for science was not even informed about them. This kind of testing should have been approved by the State Committee for Nuclear Oversight. But that was not done.
+
+Gorbachev: You said that the salary of the director depended on the production of electrical power. Did paychecks for other employees of the station also depend on
+
+the production of electrical energy?
+
+Shcherbina: Yes. Gorbachev: Did the Commission determine why the unfinished reactor was moved to industrial production? In the United States, they stopped making such reactors. Is that right, cde. Legasov?
+
+Legasov: In the United States, they did not develop or use this kind of reactors in the electrical power industry.
+
+Gorbachev: So they moved the reactor to industrial production, but further theoretical research had not been done?
+
+Shcherbina: The decision determining the fate of these reactors for the power industry was made in 1956. The reliability of industrial reactors was attributed to the power industry reactor.
+
+Gorbachev: And yet, why wasn’t theoretical research continued? Doesn't it look like voluntarism by some individuals is dragging the country into adventurism?
+
+Shcherbina: It is true that monopolism is at quite a high level.
+
+Gorbachev: Who introduced the proposal to build nuclear power stations next to cities? Who made those recommendations? There was an article in “Kommunist” on this exact topic some time ago. Then Frolov wrote in a memo regarding that article that the issues are exaggerated and that Dollezhal’s opinion is not official.
+
+Dolgikh: The leadership of the Ministry of Medium Machine Building and Ministry of Energy believed that Dollezhal’s warnings were not substantiated.
+
+Shcherbina: Right now! cannot tell you exactly who made the decision to build [the NPS] in Chernobyl, but according to the established procedure, the choice of the building site is considered by Gosplan and by the State Committee on Construction, which introduce proposals regarding building a nuclear power station.
+
+Gorbachev: You must know it exactly.
+
+Shcherbitsky: On the issue of concentration of blocks: they want to produce 12 kilowatts in Chernobyl.
+
+Gorbachev: Issues of safety should be the priority. We should rise above everything else—no matter how much they beg us. Millions of people are asking us about the causes of the accident at Chernobyl]; therefore, first of all, we must make what we already have safe, unquestionably, and only then define our future approaches.
+
+Shcherbina: As far as the locations and concentration of the nuclear power station block are concerned, we have to change this situation and reconsider the
+
+ established system. Up until now, we have been watching the practice of building nuclear power stations in other countries.
+
+Gorbachev: We have to draw lessons from what happened at Chernobyl to the fullest extent. We have completely different opportunities for locating nuclear power stations compared to other small countries and we should not mix god’s gift with scrambled eggs. By the way, the Americans, after their accident in 1979, have not started to build new nuclear power stations.
+
+Shcherbina: We believed that the safety issue was resolved. It says so in the publication by the Kurchatov Institute, and Legasov was part of that study.
+
+Aliev: How do you explain the fact that there was no timely reaction or information from the Ministry and from the local organs?
+
+Shcherbina: They did not figure out the situation immediately. There was no system of urgent radiological warning.
+
+Gorbachev: Why were they not working on creating such a system? Shcherbina: They were working, but poorly.
+
+Gorbachev: Why did we first receive the information about the radioactive cloud from the Swedes?
+
+Israel: The report was made immediately, the operative information was provided to the Ukrainian Council of Ministers on Saturday at 11:20 am, and the comprehensive data was provided the next day.
+
+Slyunkov: In Belarus, we did not receive that information.
+
+Gorbachev: Are there monitoring stations around a nuclear power station?
+
+Israel: We have a general network of [monitoring] stations. There are no specific stations for each NPS.
+
+Gorbachev: What can cde. Bryukhanov say?
+
+Bryukhanov, V. P. (former director of the Chernobyl NPS): Of course, the deputy chief engineer for science should have participated in the experiment.
+
+Gorbachev: And you, personally, why were you not involved in the experiment?
+
+Bryukhanov: According to the rules, the chief engineer must be present. Gorbachev: Why did you not coordinate this with the State Committee for Atomic Oversight?
+
+Bryukhanov: | thought that nothing could go wrong; we planned just a regular shutdown. We tested the system of local power supply for the needs of the power
+
+station itself.
+
+Gorbachev: How can you explain why station personnel committed gross violations of the rules?
+
+Bryukhanov: Why the deputy chief engineer, the head of the block, and the operators were acting the way they did, I do not understand. There is an emergency protection button, which switches off the machinery. We were confident that it was very reliable. I did not know why there were restrictions for 15 control and protection rods (SUZ).
+
+Gorbachev: What is your assessment of your team?
+
+Bryukhanov: The operator could shut down the reactor. Of course, now we can say that the experiment should have been conducted differently. There was no appropriate scientific analysis of the program.
+
+Gorbachev: How many years did you work as director?
+
+Bryukhanov: | was director since this station started working, since 1970. Gorbachev: How many accidents did you have?
+
+Bryukhanov: Approximately 1-2 accidents happen in a year.
+
+Shcherbina: Out of 104 accidents they had in the last five-year period, 34 were due to operating violations.
+
+Bryukhanov: Essentially, in 1982, there was the exact same situation as now. We did not know that in 1975 something similar had happened at the Leningrad station.
+
+Gorbachev: Were you aware of international experience in this field?
+
+Bryukhanov: Only from our journals.
+
+Vorotnikov: Did you know that they were going to run a test?
+
+Bryukhanov: No, I was not aware of the test this time. There was a general plan for
+
+testing. I was mainly involved in issues of construction and testing was overseen by the chief engineer. Gorbachev: Did deputy chief engineer for science know about [the test]? Bryukhanov: He did not know either.
+
+Gorbachev: In the last five-year period there were 104 failures at the station, as the comrades pointed out. Why did you indulge in such complacency?
+
+Bryukhanov: Those cases gave no glimpse that something like this could happen. And we carry out repairs all the time, but of course, we should have analyzed every
+
+single failure [of equipment].
+
+Gorbachev: What can you say to the Politburo about your assessment of what happened?
+
+Bryukhanov: One must not concentrate such power [capacity] in one place and under one person who is also in charge of the construction, social issues, and operation [of the station]. Discipline should be raised two levels up.
+
+Ligachev: What is your specialty?
+
+Bryukhanov: Thermal energy.
+
+Ryzhkov: And the chief engineer?
+
+Bryukhanov: Electrical energy.
+
+Gorbachev: Cde. Meshkov, what would you say?
+
+Meshkov A. G. (first deputy Minister of Medium Machine Building): Cde. Shcherbina presented the causes of the accident at the Chernobyl] NPS objectively. | was instructed to cool down the block and then to take part in the investigation of the causes of the accident.
+
+Gorbachev: What are your responsibilities in the Ministry?
+
+Meshkov: As first deputy I am responsible for everything. I oversee a couple of main departments and I am in charge of safety procedures overall.
+
+Gorbachev: There were 104 failures, who is responsible? Meshkov: This is not our station, it belongs to the Ministry of Energy.
+
+Gorbachev: What can you say about the RBMK reactor?
+
+ Meshkov: The reactor is well-tested, but without a dome. If one follows the rules strictly, then [the reactor] is safe.
+
+Gorbachev: Why then did you sign the document that states that the production of this reactor should be stopped?
+
+Slavsky: We have never signed that.
+
+Meshkov: We can continue to operate this reactor if rules are followed. It is equipped with everything necessary for safety. Here we had one violation on top of the other. This reactor can work if the regulations are followed normally. Gorbachev: You surprise me. Everybody says that the reactor is not fully streamlined, that operating it may lead to danger, and you are defending your
+
+professional pride here?
+
+Meshkov: | am here defending the pride of the nuclear energy industry. I repeat, we can continue to operate the reactor if all the regulations are followed.
+
+Gorbachev: You keep asserting the same thing you have been asserting for 30 years, and this is an echo of the fact that the sphere of the Ministry of Medium Machine Building was not under scientific, state or party control. And during the work of the State Commission, I received information that you, cde. Meshkov, acted like a lightweight, trying to conceal obvious facts.
+
+Ligachev: There is the [experience of the] world nuclear power industry. Why did it choose the path of building a different type of reactor?
+
+Meshkov: This reactor has its own strengths. The RBMK is an industrial reactor. Gorbachev: But it is less studied. Is that right, cde. Legasov? Legasov: Yes, that’s right.
+
+Meshkov: There was not a single safety proposal from the Ministry of Energy that the Ministry of Medium Machine Building did not consider.
+
+Gorbachev: Why were theoretical studies of this reactor halted and not financed? Cde. Aleksandrov told me about it; he is sad about what happened.
+
+Meshkov: All the equipment was tested. Necessary resources were provided.
+
+Vorotnikov: So how did you sign the document that says that we must not build the RBMK anymore?
+
+Meshkov: The operational reactors can continue to work.
+
+ Gorbachev: Should you have been asked when work outside the regulations was performed?
+
+Meshkov: Yes.
+
+Gorbachev: Your approach, cde. Meshkoyv, is to shift all the blame onto those who operated [the station]. Everybody else is wrong, but not you. According to you, everything has already been done, and there is nothing else to do.
+
+Meshkov: Research has been going on, and it will continue. Gorbachev: And what can you say about the locations of nuclear power stations?
+
+Meshkov: As Dollezhal suggested, the concentration of [nuclear power stations] in one location is unacceptable.
+
+Gorbachev: But he proposed to move them away from cities, to relocate them to the north.
+
+Meshkov: Even far away from cities, we should not allow such a concentration [of stations].
+
+Ryzhkov: If this design is good (RBMK), then why did you start working on the new [design] (VVER)?
+
+Meshkov: The VVER is simpler in operation.
+
+Gorbachev: What conclusions did you draw from the accident at the Chernobyl] NPS?
+
+Meshkov: First of all, we should review all projects from the perspective of how accident-prone they are. Secondly, we have to improve personnel training and strengthen discipline. We should not build one block per year because it is exhausting for the people. Thirdly, we need to introduce measures to improve the quality of equipment. We have to ensure strict adherence to regulations. We are taking measures to improve the reliability of the equipment. We should look into the quest to make the stations more compact, we should address the issues of fuel, protective clothing, and machinery. We should strictly elaborate procedures for evacuation in accident situations. There are many issues.
+
+Gorbachev: Sidorenko V. A. writes that even after reconstruction, RBMK reactors will not correspond to modern international standards.
+
+Meshkov: We need to hear this not only from Sidorenko, but from other scientists as well.
+
+ [There follows several pages of discussion including critical statements by Gorbachev about the lack of party control]
+
+Slavsky E.P. Mikhail Sergeyevich, Iam shocked by your portrayal of us, communists who work in Ministry of Medium Machine Building, as if we were not under the control of the party. As far as Chernobyl is concerned, | assert that we created a hand-made explosion. Shasharin was singing here like a Bolshoi Theater performer. But he did not say why a completely senseless experiment was conducted at the NPS. Who needed that [experiment]? Plus, they blocked the emergency protection system. A nuclear reaction proceeds in the reactor just the same way as it does ina bomb, but in the reactor it is controlled. In this case, the explosion was thermal, but it was caused by a nuclear reaction. Monstrously, we threw a huge amount of debris into the atmosphere. Firefighters died because of a lack of competence. Even after the fire in the fourth block was extinguished, they were ordered to stay there just in case.
+
+And now it looks like the Ministry of Medium Machine Building was making decisions about how to build the reactor on a whim. But we did not make this decision on our own. Here is the history of the issue: the first reactor that we built was the reactor of the RBMK type. We have dozens of them. They work well. Their designer is [Academician] Dollezhal—an experienced person. Our first reactor has been working for 30 years and nothing has happened. The same type of reactor is used on our submarines. The RBMK is a durable, good reactor. But what have they done at Chernobyl? Let us ask—who was directing the experiment? A regional engLegasov V.A. [...| The RBMK reactor falls short of international and domestic requirements on several levels. There is no protection system, no dosimetry system, and there is no external hood. [...] Of course, it is our fault that we did not monitor this reactor. [...] ]am personally to blame for this as well. Secondly, although it does not satisfy some formal requirements, one cannot say that itis a bad machine. Its concept was designed a quarter of a century ago. Naturally, then the requirements were different. [...] I was in Finland in March of this year. There was a convention of scientists from many countries who evaluated all reactors working in the world by their actual functioning. It was concluded that the best station was the Lovitsa NPS in Finland, which uses our equipment, but all the automated systems in it were replaced with western technology. Second place was given to a power station in the United States, and third place to the Leningrad NPS. The weak spot of the RBMK has been known for 15 years. A similar accident occurred in the United States back in 1962. But there they had a less powerful reactor. The cause was operator error [...].
+
+ineer? The chief engineer, the station director, Kulov’s representatives!—they were all asleep. A regional engineer, who had no right to do it, was directing the experiment. Besides, they were testing a program that nobody needs.
+
+Let’s bring together all chief engineers from all stations and ask them—what were the causes? An initiative by a regional engineer has led to a catastrophe—there should have been 15 rods, but there were only 5. As far as the [emergency] protection system is concerned, these questions were discussed at a high scientific and technological level under the leadership of [Academician, President of the USSR Academy of Sciences] Aleksandrov. If you operate the reactor as prescribed, everything will be fine. [...] There are many smart alecks now, who in this situation imagine that they know everything and they make judgments about everything. [...]
+
+Gorbachev M.S. But we live in a democratic society and people can express their opinions.
+
+Slavsky E.P. Mikhail Sergeyevich, I read your speeches, I agree with them. One should consider different opinions, but we also have real scientists who are competent in these issues.
+
+ 
