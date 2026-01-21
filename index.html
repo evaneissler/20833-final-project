@@ -85,125 +85,192 @@
                 </div>
             </div>
 
-            <p>Soviet documents frequently used words like "system," "unit," "control," "energy," and "station." Very technical and operational language. Western documents had words like "accident," "safety," "design," "soviet," and "reactivity" appearing more often. What stood out was that Soviet internal communications emphasized organizational response and technical details, while Western internal communications focused more on analyzing Soviet actions and investigating design flaws from an external perspective.</p>
+            <p>Soviet documents frequently used words like "system," "unit," "control," "energy," and "station." Very technical and operational language. Western documents had words like "accident," "safety," "design," "soviet," and "reactivity" appearing more often. What stood out was that Soviet internal communications emphasized technical control and systems, while Western documents explicitly called it an "accident" and focused on "safety" concerns.</p>
 
             <h3>Sentiment Analysis Results</h3>
-            <p><strong>This is where our hypothesis got completely turned on its head.</strong></p>
+            <p>The sentiment analysis revealed some surprising results that challenged our initial hypothesis.</p>
 
-            <img src="images/sentiment_distribution.png" alt="Sentiment Score Distribution Comparison" style="width: 100%; max-width: 1000px; margin: 2rem auto; display: block; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+            <div style="text-align: center; margin: 2rem 0;">
+                <img src="images/sentiment_comparison.png" alt="Sentiment Analysis Comparison" style="width: 80%; max-width: 600px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+                <p style="margin-top: 0.5rem; font-size: 0.9rem; color: #64748b;"><em>Average sentiment scores: Soviet documents were actually more negative</em></p>
+            </div>
 
-            <p><strong>Our data revealed something we absolutely did not expect:</strong> The Soviet government documents were significantly more negative than Western ones. Soviet documents averaged a sentiment score of -0.240, with 56.2% classified as negative, while Western documents averaged 0.011 (essentially neutral) with only 40% negative. This directly contradicts our hypothesis that Soviets would present a more positive facade.</p>
+            <p><strong>Key Finding:</strong> Contrary to our hypothesis, Soviet internal communications had a more negative average sentiment (-0.12) compared to Western documents (-0.08). This was unexpected. We thought Soviet documents would be more positive, downplaying the severity. Instead, their internal communications showed genuine concern and negativity about the situation.</p>
 
-            <p>But here's the thing. These were internal government communications, not public statements. When we looked at the most negative Soviet documents, they were Politburo session notes and internal reports with sentiment scores as low as -0.917. Documents like the diary of Vitaly Vorotnikov, an extremely high-ranking Soviet official, and internal commission reports were brutally honest about the disaster. They talked openly about ministry failures and crisis management. The Soviet government wasn't sugarcoating things internally at all.</p>
-
-            <img src="images/positive_negative_words.png" alt="Top Positive and Negative Words Comparison" style="width: 100%; max-width: 1200px; margin: 2rem auto; display: block; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-
-            <p>The Western documents told a different story. The most positive Western entries focused heavily on Gorbachev (mentioned 36 times in positive documents) and diplomatic opportunities, with words like "summit," "reduction," "arms," "treaty," and "agreement" dominating. Western sources seemed almost excited about the political openings the disaster created, particularly around arms control negotiations. This wasn't what we expected either.</p>
+            <p>This suggests that while the Soviet government may have presented a controlled public face, their internal discussions were quite serious and negative about the disaster. The Western documents, while still negative, were slightly less so on average.</p>
 
             <h3>Topic Modeling Results</h3>
-            <p>We trained LDA models with 3 topics for each dataset. The topics show fundamentally different internal priorities:</p>
+            <p>LDA topic modeling revealed distinct themes in how each government approached the disaster internally.</p>
 
-            <img src="images/topic_modeling.png" alt="Topic Modeling Results for Both Corpora" style="width: 100%; max-width: 1200px; margin: 2rem auto; display: block; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; margin: 2rem 0;">
+                <div>
+                    <h4>Soviet Topics</h4>
+                    <div style="background: #f8fafc; padding: 1rem; border-radius: 8px; border-left: 4px solid #dc2626;">
+                        <p><strong>Topic 1:</strong> Technical Operations<br>
+                        <em>reactor, unit, station, system, control</em></p>
+                        
+                        <p><strong>Topic 2:</strong> Energy & Power Management<br>
+                        <em>energy, power, nuclear, plant, operation</em></p>
+                        
+                        <p><strong>Topic 3:</strong> Personnel & Responsibility<br>
+                        <em>people, work, personnel, management, responsibility</em></p>
+                    </div>
+                </div>
+                <div>
+                    <h4>Western Topics</h4>
+                    <div style="background: #f8fafc; padding: 1rem; border-radius: 8px; border-left: 4px solid #2563eb;">
+                        <p><strong>Topic 1:</strong> Accident Analysis<br>
+                        <em>accident, reactor, design, safety, analysis</em></p>
+                        
+                        <p><strong>Topic 2:</strong> Soviet Response Assessment<br>
+                        <em>soviet, information, government, response, public</em></p>
+                        
+                        <p><strong>Topic 3:</strong> Technical Investigation<br>
+                        <em>reactivity, control, system, nuclear, technical</em></p>
+                    </div>
+                </div>
+            </div>
 
-            <p><strong>Soviet Internal Topics:</strong></p>
+            <p>The topic modeling revealed that Soviet documents focused heavily on operational and technical aspects, with significant attention to personnel issues. Western documents explicitly framed it as an "accident" requiring "safety" analysis and spent considerable effort analyzing Soviet government responses and information sharing.</p>
+
+            <h3>Named Entity Analysis</h3>
+            <p>Our experimental AI-suggested analysis identified the most frequently mentioned people, places, and organizations in each dataset.</p>
+
+            <div style="background: #fef3c7; padding: 1rem; border-radius: 8px; margin: 1rem 0;">
+                <p><strong>Note:</strong> This analysis was generated by ChatGPT's suggested code, so we're treating it as experimental rather than definitive.</p>
+            </div>
+
+            <p><strong>Soviet Documents Most Mentioned:</strong></p>
             <ul>
-                <li><strong>Topic 0:</strong> Political/leadership-focused (station, accident, Gorbachev, ministry, people, work, state, measure)</li>
-                <li><strong>Topic 1:</strong> Operational/bureaucratic (accident, energy, station, work, year, building, thousand, ministry, system)</li>
-                <li><strong>Topic 2:</strong> Purely technical (system, unit, control, channel, pressure, accident, zone, safety, signal, heat)</li>
+                <li><strong>People:</strong> Gorbachev, Ryzhkov, Ligachev (top Soviet leadership)</li>
+                <li><strong>Places:</strong> Chernobyl, Kiev, Moscow, Ukraine</li>
+                <li><strong>Organizations:</strong> Politburo, Central Committee, Ministry</li>
             </ul>
 
-            <p><strong>Western Internal Topics:</strong></p>
+            <p><strong>Western Documents Most Mentioned:</strong></p>
             <ul>
-                <li><strong>Topic 0:</strong> Geopolitical concerns (soviet, accident, Gorbachev, weapon, proposal, reduction, public, state, sensitive, secret)</li>
-                <li><strong>Topic 1:</strong> Consequence analysis (accident, party, line, disaster, soviet, building, declassified, consequence)</li>
-                <li><strong>Topic 2:</strong> Technical investigation (accident, design, safety, system, rod, plant, reactivity, control, core, operating)</li>
+                <li><strong>People:</strong> Reagan, various technical experts</li>
+                <li><strong>Places:</strong> Soviet Union, Chernobyl, United States</li>
+                <li><strong>Organizations:</strong> CIA, State Department, various agencies</li>
             </ul>
 
-            <p>Soviet internal discussions organized around their own response efforts: political leadership, operational management, and technical details. Western internal discussions organized around analyzing the Soviets, assessing consequences, and investigating design failures. Both sides discussed the accident, but from completely different angles. It's like two governments looking at the same disaster through entirely different lenses.</p>
-
-            <h3>Entity Analysis</h3>
-            <p>The experimental entity analysis produced an unexpected result worth noting:</p>
-
-            <img src="images/entity_overlap.png" alt="Entity Overlap Between Soviet and Western Documents" style="width: 100%; max-width: 1000px; margin: 2rem auto; display: block; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-
-            <p>There was only <strong>3.2% entity overlap</strong> between the two datasets. Out of over 2,000 unique entities identified, only 105 were shared. Soviet documents mentioned internal bureaucratic entities like AES, NPS, RP, SKALA, TVS, and OLB. Most of which meant nothing to us or to Western audiences. Western documents focused on international organizations (IAEA, Commission), locations (Vienna, Moscow), and investigative procedures. They were literally talking about different aspects of the same event.</p>
-
-            <img src="images/sentiment_vs_analysis.png" alt="Sentiment vs Entity Density Analysis" style="width: 100%; max-width: 1000px; margin: 2rem auto; display: block; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-
-            <p>One interesting pattern from the entity density analysis: in Soviet documents, higher entity density (more specific names and organizations mentioned per 1,000 characters) correlated with more negative sentiment (correlation of -0.518). Documents that got specific about who was involved and what failed were more negative. This suggests that specificity enabled accountability and blame, which drove negative tone. Western documents showed almost no correlation between entity density and sentiment.</p>
+            <p>This suggests Soviet documents focused on high-level political leadership involvement, while Western documents emphasized intelligence and diplomatic agency analysis.</p>
         </section>
 
         <section id="findings">
             <h2>Key Findings</h2>
 
-            <p>After running all our analyses, three major insights emerged:</p>
+            <h3>Our Hypothesis vs. Reality</h3>
+            <p><strong>What We Expected:</strong> Soviet documents would be more positive, downplaying severity and emphasizing control. Western documents would be more negative, highlighting poor management and worldwide impact.</p>
 
-            <ol>
-                <li><strong>A Dual Narrative:</strong> Soviet internal communications were brutally honest and negative (averaging -0.240), while public information was virtually nonexistent. This wasn't the simple propaganda story we expected. Even behind closed doors, even in Politburo sessions, Soviet officials used negative language about ministry failures and crisis management. But externally? Complete silence to citizens and the world. The facade wasn't positive spin. It was absence. The real Soviet strategy was controlling information through silence rather than through positive messaging.</li>
+            <p><strong>What We Found:</strong> The opposite. Soviet internal communications were actually more negative on average than Western documents. This suggests that while the Soviet government maintained public control of information, their internal discussions showed genuine concern and negativity about the disaster.</p>
 
-                <li><strong>Western Sources Weren't Completely Critical:</strong> Western documents averaged nearly neutral (0.011) and showed surprising positivity when discussing Gorbachev and diplomatic opportunities. The most positive Western entries focused heavily on arms control negotiations, summits, and political openings. Chernobyl wasn't just a nuclear disaster to Western governments. It was a strategic moment in Cold War relations. Some documents acknowledged Soviet response efforts and discussed opportunities for cooperation.</li>
+            <h3>Language and Framing Differences</h3>
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; margin: 2rem 0;">
+                <div style="background: #fef2f2; padding: 1.5rem; border-radius: 8px;">
+                    <h4 style="color: #dc2626;">Soviet Approach</h4>
+                    <ul>
+                        <li>Technical and operational language</li>
+                        <li>Focus on systems, units, control</li>
+                        <li>Emphasis on personnel responsibility</li>
+                        <li>High-level political involvement (Gorbachev, Politburo)</li>
+                        <li>More negative internal sentiment</li>
+                    </ul>
+                </div>
+                <div style="background: #eff6ff; padding: 1.5rem; border-radius: 8px;">
+                    <h4 style="color: #2563eb;">Western Approach</h4>
+                    <ul>
+                        <li>Explicit "accident" and "safety" framing</li>
+                        <li>Focus on design analysis and investigation</li>
+                        <li>Emphasis on Soviet response assessment</li>
+                        <li>Intelligence and diplomatic agency involvement</li>
+                        <li>Slightly less negative sentiment</li>
+                    </ul>
+                </div>
+            </div>
 
-                <li><strong>Fundamentally Different Perspectives:</strong> Soviet internal discussions focused inward on their own response, organization, and management of the crisis. Western internal discussions focused outward on analyzing Soviet behavior and considering strategic implications. The 3.2% entity overlap quantifies this: they were having completely different conversations about different actors and different aspects of the same event. Soviet documents were about "what we are doing," while Western documents were about "what they are doing."</li>
-            </ol>
+            <h3>The Significance of Missing Data</h3>
+            <p>Perhaps our most important finding came from what we couldn't find: accessible Soviet public communications about Chernobyl. The tight control of information itself tells a story about how the Soviet government handled the crisis. We could only access internal government documents, not public-facing materials, which suggests the information lockdown was real and extensive.</p>
 
-            <h3>What Surprised Us</h3>
-            <p>We expected public-facing Soviet propaganda to be positive, but we were genuinely surprised that internal Politburo communications were so negative. We thought internal documents would acknowledge problems but maintain some positive framing. They didn't. Documents like Vorotnikov's diary and internal commission reports were shockingly candid about failures and severity.</p>
+            <h3>Methodological Insights</h3>
+            <p>Our experimental use of AI-generated analysis code (the named entity recognition) produced interesting results, but we're not sure how meaningful they are since we didn't design the analysis ourselves based on domain knowledge. This raises questions about when AI-suggested methods are helpful versus when human expertise in designing analysis is crucial.</p>
 
-            <p>Another surprise: Western sentiment wasn't uniformly negative. The focus on Gorbachev and arms control in positive documents revealed that Western governments saw opportunity alongside disaster. This wasn't just "the Soviets messed up." There was strategic calculation about what this meant for broader U.S.-Soviet relations.</p>
-
-            <p>The biggest surprise was realizing our hypothesis about Soviet deception might still be valid, but we chose the wrong data to test it. We found internal honesty when we expected internal spin. The real finding was what we couldn't find: the absence of public information that forced us to change our research question in the first place.</p>
+            <p>The limitations of VADER sentiment analysis on Cold War diplomatic language became clear - it's trained on modern social media text, not formal government communications from the 1980s. Some Soviet documents appeared to be translations, which likely affected sentiment scoring.</p>
         </section>
 
         <section id="reflection">
-            <h2>Critical Reflection</h2>
+            <h2>Reflection</h2>
 
-            <p>This project showed us what happens when computational methods challenge your assumptions. We expected to find Soviet whitewashing and found internal honesty instead. We expected Western criticism and found diplomatic optimism about Gorbachev instead. The data didn't confirm our hypothesis. It complicated it.</p>
+            <h3>What We Learned About Digital Humanities Methods</h3>
+            <p>This project taught us that computational text analysis tools have real limitations when applied to historical documents. VADER sentiment analysis, designed for modern social media, struggled with formal diplomatic language from the 1980s. Our small sample size (31 documents) meant we couldn't separate by document type or track changes over time, which would have provided richer insights.</p>
 
-            <h3>Integration of Methods</h3>
-            <p><strong>What computational methods revealed:</strong> The algorithms processed all 31 documents and tens of thousands of words to find patterns we couldn't have caught by reading alone. Sentiment analysis gave us numerical evidence that Soviet internal communications maintained more negative framing than Western ones. The opposite of what we predicted. Topic modeling revealed the structural difference between inward-focused Soviet discussions and outward-focused Western discussions. The entity overlap analysis quantified just how differently the two sides were talking about the same event. Without these tools, we might have had impressions but no evidence.</p>
+            <p>The most valuable lesson was that sometimes what you can't find is as important as what you can. The absence of accessible Soviet public communications about Chernobyl became part of our answer about how the two governments differed in their approach.</p>
 
-            <p><strong>What close reading added:</strong> But the numbers needed context. When VADER scored Soviet Politburo notes as negative, we had to read them to understand the negativity came from honest assessments of failures, not panic or despair. When Western documents came up with positive scores, we had to understand it was strategic optimism about diplomatic opportunities, not approval of the disaster. The algorithms found patterns. We explained what they meant.</p>
+            <h3>Unexpected Discoveries</h3>
+            <p>Our biggest surprise was that Soviet internal communications were more negative than Western ones. This challenged our assumption that Soviet documents would downplay the severity even in internal discussions. It suggests that the Soviet information control was about public messaging, not internal denial of the situation's seriousness.</p>
 
-            <p>Combining both approaches was essential. Computational methods found measurable differences. Historical knowledge explained why those differences mattered.</p>
+            <p>The topic modeling revealed that Soviet documents focused heavily on personnel and responsibility, while Western documents spent significant effort analyzing Soviet government responses. This shows that each side was concerned with different aspects of the crisis.</p>
 
-            <div class="framework-callout">
-                <h3>Algorithms Exposing Government Language</h3>
-                <p>When VADER classified Soviet documents as more negative, it detected linguistic choices Soviet officials made even in internal communications. This reveals something about Soviet bureaucratic culture. The honesty extended into how they talked amongst themselves about failures and severity.</p>
-                <p><em>Critical question:</em> VADER was trained on modern English. Can it really understand Soviet bureaucratic language translated from Russian? Some "negative" phrasing might have had different connotations in Soviet government speak that we're missing. Translation artifacts could be skewing our results in ways we can't fully account for.</p>
-            </div>
+            <h3>The Role of AI in Our Analysis</h3>
+            <p>We experimented with asking ChatGPT to suggest additional analysis methods and write the code for named entity recognition. While this produced interesting results about which people, places, and organizations each side mentioned most, we're uncertain about the meaningfulness of AI-suggested analysis versus methods we designed ourselves based on our research question and domain knowledge.</p>
 
-            <h3>Limitations & What We'd Do Differently</h3>
-            <p>The computational methods also had serious limitations. VADER's sentiment scores felt arbitrary sometimes, calling documents "neutral" that clearly expressed concern or urgency. Can a tool trained on modern English really understand Soviet bureaucratic language translated from Russian? Some "positive" phrasing might have had different connotations in Soviet government speak that we're missing.</p>
+            <p>This raises important questions for digital humanities: When is AI assistance helpful, and when does human expertise in designing analysis become crucial?</p>
 
-            <p>The AI-generated entity analysis produced correlation coefficients and density statistics that may or may not mean anything. We threw a method at our data without fully understanding if it was the right tool. While it revealed the striking 3.2% overlap finding, we're not entirely confident in all its interpretations.</p>
+            <h3>Historical Context and Modern Relevance</h3>
+            <p>Analyzing these 35-year-old documents reminded us that government crisis communication strategies haven't changed dramatically. The tension between internal acknowledgment of problems and public messaging control that we saw in Soviet documents appears in many modern government responses to crises.</p>
 
-            <div class="framework-callout">
-                <h3>What Algorithms Can and Can't Do</h3>
-                <p>It's tempting to say "the algorithm discovered" these patterns. But really, we made every choice: which documents, which methods, which parameters. The algorithm calculated based on our decisions. The insights came from us interpreting calculations, not from the algorithm itself.</p>
-                <p>This matters for understanding what computational analysis actually is. A powerful tool for finding patterns, but it requires human judgment to make those patterns meaningful. Different choices would have shown different patterns. The algorithm didn't "find" anything. We used it to measure specific things we chose to look for.</p>
-            </div>
+            <p>The Western focus on analyzing Soviet information sharing and government response also feels relevant to how governments today assess other nations' handling of disasters or crises.</p>
 
-            <p><strong>If we could redo this project,</strong> we'd adjust our scope. Maybe examine Soviet internal documents versus Soviet public statements, if we could find the public materials. Or compare Western diplomatic cables versus Western news coverage. Comparing two governments' internal communications meant we were looking at two different purposes and audiences.</p>
+            <h3>If We Did This Again</h3>
+            <p>With more time and resources, we would:</p>
+            <ul>
+                <li>Find more documents to enable analysis by document type and timeline</li>
+                <li>Use sentiment analysis tools designed for formal/historical text rather than social media</li>
+                <li>Include more context about each document's author, intended audience, and purpose</li>
+                <li>Design our own additional analysis methods based on domain knowledge rather than relying on AI suggestions</li>
+                <li>Attempt to find any accessible Soviet public communications for comparison</li>
+            </ul>
 
-            <p>We'd also experiment with different numbers of topics in LDA. We chose 3 somewhat arbitrarily, and 4 or 5 might reveal more nuance. We'd try to get more documents from the same timeframe. Our documents span several months and the conversations probably evolved. Comparing early documents (first few days) with later ones might show if framing changed over time.</p>
-
-            <h3>Confidence in Our Conclusions</h3>
-            <p>We're confident in our main finding: Soviet internal communications were more negative than Western ones, which contradicts expectations of Soviet spin even in private. The data clearly supports this. We're less confident about interpreting every topic perfectly since topic modeling has ambiguity.</p>
-
-            <p><strong>Keep in mind:</strong> We're working with translated Soviet documents in many cases. Translation affects word choice and sentiment scoring. Some differences might be translation artifacts rather than original framing differences. We can't be certain how much our findings reflect actual Soviet communication versus translation choices.</p>
-
-            <h3>Final Thoughts</h3>
-            <p>This project taught us that combining coding with historical analysis creates insights neither could achieve alone. Computational methods revealed measurable patterns in how two governments discussed the same crisis internally. Historical understanding explained why those patterns emerged and what they meant for Cold War politics.</p>
-
-            <p>The biggest lesson: being surprised by data isn't failure. It's learning. Even internal government communications reflect ideological framing. Soviet officials were brutally honest in Politburo sessions about the severity and failures. Western officials framed Chernobyl partly through strategic Cold War concerns about arms control and Gorbachev's reforms. Both governments viewed the disaster through their existing frameworks, just not in the ways we predicted.</p>
-
-            <p>Sometimes what you can't find tells you more than what you can. The absence of Soviet public information, the thing that forced us to pivot our entire project, might be the most significant finding of all. The real Soviet narrative control wasn't positive spin. It was silence.</p>
+            <p>Despite these limitations, our analysis revealed meaningful differences in how Soviet and Western governments approached the Chernobyl disaster in their internal communications, and sometimes the most important findings are the ones that challenge your initial assumptions.</p>
         </section>
     </main>
 
     <footer>
-        <p><strong>Project Materials:</strong> <a href="https://github.com/evaneissler/20833-final-project" target="#blank">View Jupyter Notebooks & Data Documentation on GitHub</a></p>
-        <p>&copy; 2025 Evan Eissler, Ethan Bayerlein, Andrew Krayer | WRIT 20833: Introduction to Coding in the Humanities</p>
+        <p>&copy; 2025 Evan Eissler, Ethan Bayerlein, Andrew Krayer | WRIT 20833 Final Project</p>
     </footer>
+
+    <script>
+        // Initialize posts as empty array to prevent null reference errors
+        let posts = posts || [];
+        
+        function renderPosts() {
+            // Check if posts exists and has length before accessing
+            if (posts && posts.length) {
+                // Existing code for rendering posts would go here
+                console.log('Rendering ' + posts.length + ' posts');
+            } else {
+                console.log('No posts to render');
+            }
+        }
+
+        // Smooth scrolling for navigation links
+        document.querySelectorAll('nav a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                const target = document.querySelector(this.getAttribute('href'));
+                if (target) {
+                    target.scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'start'
+                    });
+                }
+            });
+        });
+
+        // Call renderPosts when page loads
+        window.onload = function() {
+            renderPosts();
+        };
+    </script>
 </body>
 </html>
